@@ -1,0 +1,1 @@
+The syllabus of MMTH-DSCC1-TH, MMTH-MDC-CC1-TH and MMTH-MN1-TH (The paper I have) are appeared to be same. So, I decided to practice all three of those paper's pyqs to get a better understanding of the pyqs and perform well in the exam.
